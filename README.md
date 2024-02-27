@@ -1,6 +1,4 @@
 # ProjektJumbotron-ML-Model
 
-
-
-Library's & Tools
+Library's & Tools  
 Pandas
